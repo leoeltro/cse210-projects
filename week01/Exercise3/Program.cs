@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Exercise3 Project.");
+        Console.WriteLine("Hello World! This is the Exercise 3 Project.");
 
         string response = "";
         int number_entered = 0;
